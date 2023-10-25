@@ -1,4 +1,4 @@
-# AI  
+# Builidng Classifing Model  
 This Project provide a model using computer vision.  
 The model classify Pusan National Univ's Buildings.  
 The total number of classifiable classes is 48.
